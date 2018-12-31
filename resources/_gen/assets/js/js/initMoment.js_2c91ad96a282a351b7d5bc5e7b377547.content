@@ -1,0 +1,4 @@
+$(document).ready(function() {
+    var time = moment().tz("Australia/Sydney").format("h:mm A");
+    $("#time").html(time);
+})
