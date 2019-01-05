@@ -1,6 +1,5 @@
 ---
-title: "Yi and Michael"
+title: "Y and M"
 headless: true
 ---
-
 

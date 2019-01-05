@@ -3,7 +3,7 @@
 	url = https://github.com/halogenica/beautifulhugo.git
 [submodule "themes/introduction"]
 	path = themes/introduction
-	url = https://github.com/vickylai/hugo-theme-introduction.git
+	url = git@github.com:micha-a-schmidt/hugo-theme-introduction.git
 [submodule "addon/hugo-easy-gallery"]
 	path = addon/hugo-easy-gallery
 	url = https://github.com/liwenyip/hugo-easy-gallery/
