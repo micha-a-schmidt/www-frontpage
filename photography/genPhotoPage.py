@@ -112,6 +112,8 @@ with open(target,"w") as out:
     with open(gallery) as f:
         for counter,pic in enumerate(f):
             # write target....
+            if pic.isspace():
+                continue
             out.write(templatePic.format(num=counter))
             for p in presets:
                 jobs.append((p,counter,os.path.join(sourcedir,pic.rstrip()),targetdir))

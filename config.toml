@@ -1,4 +1,4 @@
-baseURL                          = "http://www.cai-schmidt.org/"  # Your domain name. Must end with "/"
+baseURL                          = "https://www.cai-schmidt.org/"  # Your domain name. Must end with "/"
 publishDir = "/mnt/Web/www"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
@@ -57,9 +57,9 @@ DefaultContentLanguage           = "en"                    # Default language fo
         languageCode     = "en-us"
         contentDir       = "content"
         weight           = 0
-        title            = "Yi and Michael"
+        title            = "Y and M"
         [languages.en.params]
-            description  = "Yi and Michael Website"   # Max 160 characters show in search results
+            description  = "Y and M's Website"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
 
 
