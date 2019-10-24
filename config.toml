@@ -1,5 +1,5 @@
 baseURL                          = "https://www.cai-schmidt.org/"  # Your domain name. Must end with "/"
-publishDir = "/mnt/Web/www"
+publishDir = "public"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                       # https://gohugo.io/content-management/comments
